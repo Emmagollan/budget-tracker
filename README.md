@@ -10,10 +10,10 @@ This application allows users to track their expenses whether they are online or
 ## Installation
 Clone the code. 
 Type 'npm install' in the command line. 
-Type 'npm install' into the command line to start server.
+Type 'npm start' into the command line to start server.
 
 ## Usage
-Visit the live application here ---
+Visit the live application here --- budget-tracker2
 
 ## Questions
 If you have any questions, please contact me at [Email](mailto:emmagollan33@gmail.com), [GitHub](https://github.com/Emmagollan)
