@@ -7,11 +7,13 @@ This application allows users to track their expenses whether they are online or
 2. [Usage](#usage)
 3. [Questions](#question)
 
-## <a name="install"/>Installation
+## Installation
+Clone the code. 
+Type 'npm install' in the command line. 
+Type 'npm install' into the command line to start server.
 
-
-## <a name="usage"/>Usage
+## Usage
 Visit the live application here ---
 
-## <a name="question"/>Questions
-If you have any questions...
+## Questions
+If you have any questions, please contact me at [Email](mailto:emmagollan33@gmail.com), [GitHub](https://github.com/Emmagollan)
